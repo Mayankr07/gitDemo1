@@ -10,6 +10,9 @@ public class SeleniumPractice{
 		System.out.println("Apple");
 		System.out.println("Banana");
 		System.out.println("Mango");
+                System.out.println("Mango");
+		System.out.println("Mango");
+
 
 	}
 }
