@@ -18,5 +18,9 @@ public class SeleniumPractice{
 		System.out.println("Branch Added 2 ");
 		System.out.println("Branch Added  3");
 
+
+                System.out.println("Branch Added 2 ");
+		System.out.println("Branch Added  3");
+
 	}
 }
